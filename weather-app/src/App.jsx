@@ -4,7 +4,7 @@ import Button from "@mui/material/Button";
 function App() {
   return (
     <>
-      <h1>Material UI demo</h1>
+      <Button variant="text">Text</Button>
     </>
   );
 }
